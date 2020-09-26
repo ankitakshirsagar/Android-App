@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_id"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="Search"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:id="@+id/camera_id"
+        android:icon="@drawable/ic_camera"
+        android:title="Camera"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/create_id"
+        android:icon="@drawable/ic_create"
+        android:title="Create"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/action_sign"
+        android:orderInCategory="100"
+        android:title="Sign Out"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never"></item>
+
+</menu>

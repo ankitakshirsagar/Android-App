@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HomePage</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">action_settings</string>
+
+   <string-array name="categories">
+
+        <item> FOOD </item>
+        <item> ENTERTAINMENT </item>
+        <item> TRAVEL </item>
+        <item> HEALTH CARE </item>
+        <item> HOME </item>
+        <item> INSURANCE </item>
+        <item> EDUCATION </item>
+        <item> MISCELLANEOUS </item>
+        <item> CLOTHING </item>
+        <item> BUSINESS </item>
+        <item> ELECTRONICS </item>
+        <item> PERSONAL </item>
+    </string-array>
+
+    <string-array name="highlightcategories">
+
+        <item> MOST VISITED STORE </item>
+        <item> TOTAL SPENT IN THE MONTH </item>
+        <item> DISCOUNTS/SAVINGS </item>
+        <item> IN WHICH CATEGORY WE SPENT MORE ? </item>
+
+    </string-array>
+
+
+</resources>
